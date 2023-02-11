@@ -1,9 +1,15 @@
 body {
-    background: blue;
+    background: rgb(222, 207, 181);
+}
+
+.center {
+    margin:auto;
+    width:100%;
+    text-align: center;
 }
 
 h1 {
     
-    color: chartreuse;
+    color: rgb(105, 80, 22);
     font-style: italic;
 }
